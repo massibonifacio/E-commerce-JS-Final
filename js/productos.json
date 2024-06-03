@@ -1,0 +1,182 @@
+[
+    {
+        "id": "ajax-especial",
+        "titulo": "Ajax",
+        "imagen": "./img/futbol/ajax-especial.jpg",
+        "categoria": {
+            "nombre": "Futbol",
+            "id": "futbol"
+        },
+        "precio": 30
+    },
+    {
+        "id": "barcelona",
+        "titulo": "Barcelona",
+        "imagen": "./img/futbol/barcelona.jpg",
+        "categoria": {
+            "nombre": "Futbol",
+            "id": "futbol"
+        },
+        "precio": 30
+    },
+    {
+        "id": "city",
+        "titulo": "Manchester City",
+        "imagen": "./img/futbol/city.jpg",
+        "categoria": {
+            "nombre": "Futbol",
+            "id": "futbol"
+        },
+        "precio": 30
+    },
+    {
+        "id": "inter",
+        "titulo": "Inter",
+        "imagen": "./img/futbol/inter.jpg",
+        "categoria": {
+            "nombre": "Futbol",
+            "id": "futbol"
+        },
+        "precio": 30
+    },
+    {
+        "id": "miami",
+        "titulo": "Inter de Miami",
+        "imagen": "./img/futbol/miami.jpg",
+        "categoria": {
+            "nombre": "Fútbol",
+            "id": "futbol"
+        },
+        "precio": 30
+    },
+    {
+        "id": "miami-especial",
+        "titulo": "Inter de Miami Especial",
+        "imagen": "./img/futbol/miami-especial.jpg",
+        "categoria": {
+            "nombre": "Futbol",
+            "id": "futbol"
+        },
+        "precio": 30
+    },
+    {
+        "id": "milan",
+        "titulo": "Inter de Milan",
+        "imagen": "./img/futbol/milan89.jpg",
+        "categoria": {
+            "nombre": "Futbol",
+            "id": "futbol"
+        },
+        "precio": 30
+    },
+    {
+        "id": "psg",
+        "titulo": "PSG",
+        "imagen": "./img/futbol/psg.jpg",
+        "categoria": {
+            "nombre": "Futbol",
+            "id": "futbol"
+        },
+        "precio": 30
+    },
+    {
+        "id": "golden",
+        "titulo": "Golden State Warriors",
+        "imagen": "./img/basket/golden5.jpg",
+        "categoria": {
+            "nombre": "Basket",
+            "id": "basket"
+        },
+        "precio": 30
+    },
+    {
+        "id": "lakers",
+        "titulo": "Los Angeles Lakers",
+        "imagen": "./img/basket/lakers4.jpg",
+        "categoria": {
+            "nombre": "Basket",
+            "id": "basket"
+        },
+        "precio": 30
+    },
+    {
+        "id": "magic",
+        "titulo": "Orlando Magic",
+        "imagen": "./img/basket/magic2.jpg",
+        "categoria": {
+            "nombre": "Basket",
+            "id": "basket"
+        },
+        "precio": 30
+    },
+    {
+        "id": "phila",
+        "titulo": "Philadelphia 76ers",
+        "imagen": "./img/basket/phila3.jpg",
+        "categoria": {
+            "nombre": "Basket",
+            "id": "basket"
+        },
+        "precio": 30
+    },
+    {
+        "id": "toronto",
+        "titulo": "Toronto Raptors",
+        "imagen": "./img/basket/toronto1.jpg",
+        "categoria": {
+            "nombre": "Basket",
+            "id": "basket"
+        },
+        "precio": 30
+    },
+    {
+        "id": "arsenal",
+        "titulo": "Arsenal",
+        "imagen": "./img/rompevientos/arsenal5.png",
+        "categoria": {
+            "nombre": "Rompevientos",
+            "id": "rompevientos"
+        },
+        "precio": 50
+    },
+    {
+        "id": "brasil",
+        "titulo": "Brasil",
+        "imagen": "./img/rompevientos/brazil2.jpg",
+        "categoria": {
+            "nombre": "Rompevientos",
+            "id": "rompevientos"
+        },
+        "precio": 50
+    },
+    {
+        "id": "corinthians",
+        "titulo": "Corinthians",
+        "imagen": "./img/rompevientos/cori3.jpg",
+        "categoria": {
+            "nombre": "Rompevientos",
+            "id": "rompevientos"
+        },
+        "precio": 50
+    },
+    {
+        "id": "juventus",
+        "titulo": "Juventus",
+        "imagen": "./img/rompevientos/juve4.png",
+        "categoria": {
+            "nombre": "Rompevientos",
+            "id": "rompevientos"
+        },
+        "precio": 50
+    },
+    {
+        "id": "senegal",
+        "titulo": "Senegal",
+        "imagen": "./img/rompevientos/senegal1.jpg",
+        "categoria": {
+            "nombre": "Rompevientos",
+            "id": "rompevientos"
+        },
+        "precio": 50
+    }
+]
